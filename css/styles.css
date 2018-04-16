@@ -1,0 +1,44 @@
+.pad-40 {
+  padding: 40px;
+}
+
+.height-lg {
+  padding: 100px 0px;
+}
+
+.height-md {
+  padding: 50px 0px;
+}
+
+.border {
+  border: 5px solid black;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background: blue;
+}
+
+.ltblue {
+  background: lightblue;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
